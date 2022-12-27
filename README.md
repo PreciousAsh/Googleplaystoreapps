@@ -31,3 +31,6 @@ Open Gitbash
 - open github web and create a repository 
 - Copy and paste repository link into gitbash
 - git push -u origin master
+
+Step 7.
+Create a new python notebook and name it your classifier
