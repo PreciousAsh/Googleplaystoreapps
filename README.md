@@ -1,6 +1,6 @@
-# Googleplaystoreapps
+# Google Play Store Apps
 
-Step 1. 
+# Step 1. 
 
 Searched for a practical data set using https://datasetsearch.research.google.com/
 - Downloaded the Google Play Store App Dataset CSV from Kaggle 
